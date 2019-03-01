@@ -1,0 +1,5 @@
+/data/*
+/score/*
+/.ipynb_checkpoints
+data/train.npy
+data/columns.csv
